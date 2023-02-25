@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+
+plant-seedlings-classification.zip
+
 # Distribution / packaging
 .Python
 build/
